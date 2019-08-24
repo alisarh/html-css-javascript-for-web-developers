@@ -1,0 +1,19 @@
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .25;
+}
+main{
+	height:1000px;
+}
+.bg-gray{
+	margin:auto 30px;
+	background:#aaa;
+	padding:5px 10px;
+}
